@@ -164,11 +164,7 @@
 			<version>4.8</version>
 			<scope>test</scope>
 		</dependency>
-		<dependency>
-    <groupId>commons-collections</groupId>
-    <artifactId>commons-collections</artifactId>
-    <version>3.2.1</version>
-</dependency>
+		
 	<dependency>
     <groupId>mysql</groupId>
     <artifactId>mysql-connector-java</artifactId>
